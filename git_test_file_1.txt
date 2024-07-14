@@ -1,3 +1,4 @@
 git test file 1 line 1
 git test file 1 line 2
 git test file 1 line 3
+test branch
